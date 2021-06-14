@@ -1,0 +1,11 @@
+2021-05-13 01:05:45.954 [main] INFO  pages.MainPage - Main Page seen successfully
+2021-05-13 01:05:50.784 [main] INFO  pages.LoginPage - Login page seen successfully
+2021-06-13 01:06:10.501 [main] ERROR pages.MainPage - Login Failed
+2021-06-13 01:06:12.932 [main] INFO  pages.MainPage - Main Page seen successfully
+2021-06-13 01:06:17.731 [main] INFO  pages.ResultsPage - Search results seen successfully
+2021-06-13 01:06:23.259 [main] INFO  pages.ResultsPage - Product informations written to file
+2021-06-13 01:06:28.410 [main] INFO  pages.BasketPage - My basket page seen successfully
+2021-06-13 01:06:29.475 [main] INFO  pages.BasketPage - Price comparison is successful
+2021-06-13 01:06:32.711 [main] INFO  pages.BasketPage - Amount successfully changed to 2
+2021-06-13 01:06:33.804 [main] INFO  pages.BasketPage - Pressed Delete button for product
+2021-06-13 01:06:34.858 [main] INFO  pages.BasketPage - Basket successfully cleared
